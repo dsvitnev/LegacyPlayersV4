@@ -1,6 +1,7 @@
 .vagrant
 .vscode
 .idea
+.DS_Store
 LegacyPlayersV3.iml
 Cargo.lock
 target
